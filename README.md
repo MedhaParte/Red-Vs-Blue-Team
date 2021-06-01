@@ -13,14 +13,18 @@ By performing all of the roles, this exercise gave us good insight into both off
 
 This repository contains a readout of this activity containing the following details:
 
-  Network Topology
-  Network Reconnaissance
-  Vulnerability Assessment
-  Exploit summary
-  Incident Analysis
-  Mitigation Strategies
+       Network Topology
+       Network Reconnaissance
+       Vulnerability Assessment
+       Exploit summary
+       Incident Analysis
+       Mitigation Strategies
   
-Network Diagram:
+
+Network Diagram: 
+
+![Red Vs Blue NW Diagram](https://github.com/MedhaParte/Red-Vs-Blue-Team/blob/main/Network%20Diagram.jpg)
+
   
 The configuration details of each machine may be found below: 
 
