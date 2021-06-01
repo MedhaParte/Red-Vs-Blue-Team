@@ -23,7 +23,7 @@ This repository contains a readout of this activity containing the following det
 
 Network Diagram: 
 
-![Red Vs Blue NW Diagram](https://github.com/MedhaParte/Red-Vs-Blue-Team/blob/main/Network%20Diagram3.jpg)
+![Red Vs Blue NW Diagram](https://github.com/MedhaParte/Red-Vs-Blue-Team/blob/main/Red%20Vs%20Blue-NW.jpg)
 
   
 The configuration details of each machine may be found below: 
