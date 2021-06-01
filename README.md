@@ -34,3 +34,9 @@ The configuration details of each machine may be found below:
 |     Kali          	|     Attack VM     	|     192.168.1.90     	|     Kali Linux            	|
 |     Capstone      	|     Target VM     	|     192.168.1.105    	|     Ubuntu Linux          	|
 |     ELK           	|     Logging       	|     192.168.1.100    	|     Ubutnu Linux          	|
+
+Benefits of red team/blue team exercises : 
+
+It help organizations to identify points of vulnerability and determine areas of improvement in defensive incident response processes. 
+Build the organization’s first-hand experience about how to detect and contain a targeted attack.
+Develop response and remediation activities to return the environment to a normal operating state.
